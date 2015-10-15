@@ -1,0 +1,30 @@
+{
+  "name": "node-cassandra-orm",
+  "version": "0.1.0",
+  "description": "This library provides a nice query builder and a base model where cassandra queries can be built using jQuery style chaining of components",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmasif/node-cassandra-orm.git"
+  },
+  "keywords": [
+    "cassadra",
+    "orm",
+    "query",
+    "builder",
+    "base",
+    "model"
+  ],
+  "author": "Asif Iqbal <asm.asif.iqbal@gmail.com> (http://github.com/asmasif)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmasif/node-cassandra-orm/issues"
+  },
+  "homepage": "https://github.com/asmasif/node-cassandra-orm#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
